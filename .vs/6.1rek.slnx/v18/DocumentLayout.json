@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Student\\6.1rek\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA50557-342A-4279-8F63-BBA24E2A20D4}|Unittest6.1rek\\Unittest6.1rek.vcxproj|D:\\Student\\6.1rek\\Unittest6.1rek\\Unittest6.1rek.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FCA50557-342A-4279-8F63-BBA24E2A20D4}|Unittest6.1rek\\Unittest6.1rek.vcxproj|solutionrelative:Unittest6.1rek\\Unittest6.1rek.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D69FCE-3A34-4C36-B5CE-88F6790CBE78}|6.1rek\\6.1rek.vcxproj|D:\\Student\\6.1rek\\6.1rek\\6.1rek.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{87D69FCE-3A34-4C36-B5CE-88F6790CBE78}|6.1rek\\6.1rek.vcxproj|solutionrelative:6.1rek\\6.1rek.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Unittest6.1rek.cpp",
+              "DocumentMoniker": "D:\\Student\\6.1rek\\Unittest6.1rek\\Unittest6.1rek.cpp",
+              "RelativeDocumentMoniker": "Unittest6.1rek\\Unittest6.1rek.cpp",
+              "ToolTip": "D:\\Student\\6.1rek\\Unittest6.1rek\\Unittest6.1rek.cpp",
+              "RelativeToolTip": "Unittest6.1rek\\Unittest6.1rek.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-24T15:51:18.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "6.1rek.cpp",
+              "DocumentMoniker": "D:\\Student\\6.1rek\\6.1rek\\6.1rek.cpp",
+              "RelativeDocumentMoniker": "6.1rek\\6.1rek.cpp",
+              "ToolTip": "D:\\Student\\6.1rek\\6.1rek\\6.1rek.cpp",
+              "RelativeToolTip": "6.1rek\\6.1rek.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAFcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-24T14:51:05.105Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
